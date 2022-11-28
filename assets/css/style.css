@@ -1,0 +1,117 @@
+* {
+    display: 0px;
+    color: rgb(11, 11, 12);
+}
+
+nav {
+    border-radius: 30px;
+    margin-top: 2rem;
+    margin-bottom: 2em;
+    height: 75px;
+    color: black;
+    overflow-wrap: break-word;
+}
+
+h1 {
+    color: floralwhite;
+}
+
+h2 {
+    color: floralwhite;
+}
+
+h3 {
+    color: floralwhite;
+}
+p {
+    color: floralwhite;
+}
+
+.nav-brand {
+    width: 20px;
+    height: 20px;
+}
+.beranda{
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    height: 700px;
+    margin-top: -150px;
+}
+.img-fluid{
+    padding-left: 1rem ;
+    padding-top: 2rem;
+}
+
+.beranda {
+    margin-bottom: 100px;
+}
+
+.hero-img img:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+#konten {
+    background-image: url(../img/5.jpg);
+    height: 100%;
+    width: 100%;
+}
+
+.hero-img {
+    width: 400px;
+    height: 400px;
+}
+
+.btn tombol{
+    text-transform: uppercase;
+}
+
+body, html {
+    height: 100%;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  .nav-link {
+    margin-right: 39px;
+  }
+
+  .card:hover {
+    transform:scale(1.1);
+    transition: 0.5s;
+  }
+
+  /* Horor */
+.beranda2 {
+    background-image: url(../img/235874.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin-top: -140px;
+}
+
+#horor h2{
+    color: #ffffff;
+}
+
+#horor{
+    background-image: url(../img/bghoror.jpg);
+    margin-top: 4rem;
+    height: 100%;
+    width: 100%;
+}
+
+.back{
+    padding-top: 4rem;
+    margin-left: 7rem;
+}
+
+/* COMEDY */
+.beranda3 {
+    background-image: url(../img/Film-Komedi-Indonesia.webp);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    margin-top: -140px;
+}
